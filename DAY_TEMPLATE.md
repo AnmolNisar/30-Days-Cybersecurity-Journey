@@ -1,18 +1,35 @@
-# Day XX — [Short Task Title]
+# Session XX — MyFirstHack Days [A]–[C]
 
-**Date:** YYYY-MM-DD
 **Status:** Not Started / In Progress / Done
-**Topic area:** e.g. Network Security, Threat Intel, Email Security, Cloud Security, AppSec, GRC, etc.
+**Career-path notes:** SOC Analyst / GRC Analyst / Still deciding (only fill in once the program starts pointing this way)
 
-## Task
+## Day [A] — [Lesson Title]
 
-What I set out to do today, in a sentence or two.
+**Core idea:** One or two sentences on the main concept.
+**Quiz takeaway:** What the embedded quiz was testing, and the one-line "Takeaway" the lesson ended on.
 
-## What I did
+## Day [B] — [Lesson Title]
 
-A short write-up of the work: steps taken, tools used, and how it went.
+**Core idea:**
+**Quiz takeaway:**
 
-## Key takeaways
+## Day [C] — [Lesson Title]
+
+**Core idea:**
+**Quiz takeaway:**
+
+## Hands-On Task (Task [N] of 30)
+
+**Task:** Name/description of the task.
+**What I did:** Steps taken, tools used.
+**Results captured:** The actual output/numbers/findings from doing it.
+
+## Maya's angle
+
+*(Only fill in if this session's lessons apply the Maya small-business case study.)*
+How this session's concept would show up for Maya's clothing store — what could go wrong, how she'd defend against it.
+
+## Key takeaways (across all 3 days)
 
 - Main thing I learned #1
 - Main thing I learned #2
@@ -20,8 +37,24 @@ A short write-up of the work: steps taken, tools used, and how it went.
 
 ## Proof / files
 
-Links to any files in this folder (scripts, configs, screenshots, reports) or external resources (articles, courses, tools) used today.
+Links to any files in this folder (scripts, configs, screenshots, reports) or external resources used this session.
+
+## LinkedIn post
+
+**Status:** Not posted / Posted → [link]
+
+```
+Days [A]–[C] of 90 with @MyFirstHack — [one line on what these 3 days covered].
+
+[One or two sentences on the hands-on task and what you actually found/built.]
+
+[One honest line: surprised, challenged, excited, whatever's true.]
+
+Following MyFirstHack's 90-day path from beginner to cybersecurity foundations, tracking the whole thing here: [repo link]
+
+#myfirsthack #cybersecurity
+```
 
 ## Next up
 
-One line on what tomorrow's task will build on.
+One line on what the next session builds on.
