@@ -1,6 +1,5 @@
 # Session XX — MyFirstHack Days [A]–[C]
 
-**Status:** Not Started / In Progress / Done
 **Career-path notes:** SOC Analyst / GRC Analyst / Still deciding
 
 ## Day [A] — [Lesson Title]
@@ -18,20 +17,23 @@
 **Core idea:**
 **Quiz takeaway:**
 
-## Hands-on task(s)
+## Hands-on tasks
 
-Each day's hands-on exercise is made of 1–3 steps. Only the first is visible in the app until you mark it complete — later steps reveal after. List what you actually did per day below; add more steps as they reveal.
+Each day typically has **2–3 tasks/steps**, not just one — only the first is visible in the app until you mark it complete, so check back after completing each one to see the rest before writing this section.
 
-**Day [A] task:** [task name] — what I did, results captured.
-**Day [B] task:** [task name] — what I did, results captured.
-**Day [C] task:** [task name] — what I did, results captured.
+### Day [A] — [N] tasks
 
-*(If this session includes a Milestone Day, note the portfolio artifact it produced and where you saved it — see the ⚠️ privacy note in the root README before publishing any real findings.)*
+**Task 1 — [name]:** what it asks you to do; what to capture.
+**Task 2 — [name]:** ...
+**Task 3 — [name] (if present):** ...
 
-## Maya's angle
+### Day [B] — [N] tasks
 
-*(Only fill in if this session's lessons apply the Maya small-business case study.)*
-How this session's concept would show up for Maya's clothing store — what could go wrong, how she'd defend against it.
+(same structure)
+
+### Day [C] — [N] tasks
+
+(same structure — if this is a Milestone Day, note the portfolio artifact it produces and add the ⚠️ privacy reminder before publishing real findings)
 
 ## Key takeaways (across all 3 days)
 
@@ -41,23 +43,11 @@ How this session's concept would show up for Maya's clothing store — what coul
 
 ## Proof / files
 
-Links to any files in this folder (redacted screenshots, notes, portfolio pieces) or external resources used this session. Redact anything personally identifying or exploitable before adding it here.
+(Added directly to this folder — no placeholder needed here.)
 
 ## LinkedIn post
 
-**Status:** Not posted / Posted → [link]
-
-```
-Days [A]–[C] of 90 with @MyFirstHack — [one line on what these 3 days covered].
-
-[One or two sentences on the hands-on work and what you actually found/built.]
-
-[One honest line: surprised, challenged, excited, whatever's true.]
-
-Following MyFirstHack's 90-day path from beginner to cybersecurity foundations, tracking the whole thing here: [repo link]
-
-#myfirsthack #cybersecurity
-```
+Write this as an actual ready-to-paste post once the tasks are done — not a bracketed template. Pull the real specifics (numbers, findings, choices) from the tasks above, in first person, ending with the repo link and `#myfirsthack #cybersecurity`.
 
 ## Next up
 
