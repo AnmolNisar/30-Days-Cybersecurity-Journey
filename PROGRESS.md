@@ -2,13 +2,15 @@
 
 A live view of the 30-session challenge (each session = 3 MyFirstHack program-days). Update **Status**, **Topics**, **Task**, and **LinkedIn** as each session is completed.
 
-| Session | MyFirstHack Days | Topics | Hands-On Task | Status | LinkedIn | Link |
+> Lessons for Days 1–13 have been read; hands-on tasks (screenshots/details) are still pending for all of them as of this update. "In Progress" below means lessons done, tasks not yet done — not fully complete.
+
+| Session | MyFirstHack Days | Topics | Hands-On Task(s) | Status | LinkedIn | Link |
 |---|---|---|---|---|---|---|
-| 1 | 1–3 | Day 1: The Cybersecurity Landscape · Day 2: Why Most Beginners Fail (And How You Won't) · Day 3: TBD | Task 1 of 30 — HaveIBeenPwned breach check | In Progress | Not posted | [Day 01](./Day-01/README.md) |
-| 2 | 4–6 | TBD | TBD | Not Started | — | — |
-| 3 | 7–9 | TBD | TBD | Not Started | — | — |
-| 4 | 10–12 | TBD | TBD | Not Started | — | — |
-| 5 | 13–15 | TBD | TBD | Not Started | — | — |
+| 1 | 1–3 | Day1: The Cybersecurity Landscape · Day2: Why Most Beginners Fail · Day3: Your First Security Audit (Milestone) | Pending — see session README | In Progress | Not posted | [Day 01](./Day-01/README.md) |
+| 2 | 4–6 | Day4: How Computers Actually Work · Day5: How the Internet Works · Day6: IP Addresses | Pending — see session README | In Progress | Not posted | [Day 02](./Day-02/README.md) |
+| 3 | 7–9 | Day7: DNS (Week 1 checkpoint) · Day8: Passwords · Day9: Phishing | Pending — see session README | In Progress | Not posted | [Day 03](./Day-03/README.md) |
+| 4 | 10–12 | Day10: Data · Day11: The Web · Day12: HTTPS | Pending — see session README | In Progress | Not posted | [Day 04](./Day-04/README.md) |
+| 5 | 13–15 | Day13: Cookies · Day14: Wi-Fi (TBD) · Day15: TBD | Pending — see session README | In Progress | Not posted | [Day 05](./Day-05/README.md) |
 | 6 | 16–18 | TBD | TBD | Not Started | — | — |
 | 7 | 19–21 | TBD | TBD | Not Started | — | — |
 | 8 | 22–24 | TBD | TBD | Not Started | — | — |

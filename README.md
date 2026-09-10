@@ -14,24 +14,28 @@ This journey follows **[MyFirstHack](https://myfirsthack.com)** — a free, 90-d
 | … | … |
 | Day-30 | 88–90 |
 
-This mapping isn't arbitrary: MyFirstHack only issues a hands-on task **30 times across its 90 days** ("Task 1 of 30", "Task 2 of 30", …), so one repo session lines up with exactly one hands-on task plus the 3 lesson-days building up to it.
+How the program is actually structured (corrected after reading the first 13 days — the original note here about "30 tasks total" was a misread and is wrong, ignore it if you saw it):
 
-A few things about how the program is structured, so notes stay consistent session to session:
 - Each program-day is a short lesson (concept + story) with an embedded quiz and a one-line "Takeaway."
-- Every ~3 days, a hands-on task ties the lessons to a real, doable exercise.
+- Each day also has its own **hands-on exercise made of 1–3 steps**. Only the first step is visible until you mark it complete in the app — later steps reveal progressively. So a day's task list isn't fully known until you actually work through it.
+- Some days are **Milestone Days** that produce a real portfolio artifact — e.g. Day 3 is a 5-step personal security audit that ends in a filled-out audit report template, meant to go into a cybersecurity portfolio.
 - A recurring fictional case study — **Maya**, who runs a small online clothing store — is used throughout to ground concepts in a real small-business context.
 - The program builds toward two entry-level career paths: **SOC Analyst** (detection/investigation) and **GRC Analyst** (governance, risk & compliance).
-- MyFirstHack's own design pushes a LinkedIn post (tagging `@MyFirstHack`) after every single program-day. I'm posting once per session (~every 3 days) instead, using a consolidated version of their template.
+- MyFirstHack's own design pushes a LinkedIn post (tagging `@MyFirstHack`) after every single program-day, plus a Week-1-style reflection post and a final Day-90 reflection. I'm posting once per session (~every 3 days) instead, using a consolidated version of their template.
+
+### ⚠️ Before publishing task results
+
+Several hands-on tasks ask you to inventory your *own* real accounts, devices, and security gaps (e.g. Day 3's audit, Day 10's data-landscape map). **Don't publish the specific, exploitable version of that** — no real email addresses, no exact account/service names tied to a real weakness, no unredacted IPs, no "here's exactly what's unpatched on my accounts." Write up the learning and the process; keep the literal inventory of your own attack surface private or heavily generalized. A repo that's genuinely useful to other learners doesn't need your bank's name or your unpatched 2FA status to make the point.
 
 ## How this repo is organized
 
-- **`Day-01/` … `Day-30/`** — one folder per session. Each contains a `README.md` covering that session's 3 MyFirstHack lesson-days, the session's hands-on task, key takeaways, and a LinkedIn post draft/status.
+- **`Day-01/` … `Day-30/`** — one folder per session. Each contains a `README.md` covering that session's 3 MyFirstHack lesson-days, the session's hands-on task(s), key takeaways, and a LinkedIn post draft/status.
 - **`DAY_TEMPLATE.md`** — the template every session folder is based on. Copy it into a new `Day-XX/README.md` to start the next session.
 - **`PROGRESS.md`** — a running tracker table across all 30 sessions (Not Started / In Progress / Done), with the MyFirstHack day range, topics, and LinkedIn status for each.
 
 ## Goals
 
-- Complete 3 MyFirstHack lesson-days and their hands-on task every session, for 30 sessions.
+- Complete 3 MyFirstHack lesson-days and their hands-on task(s) every session, for 30 sessions.
 - Keep momentum and accountability visible via `PROGRESS.md`.
 - Post a LinkedIn recap every session (~every 3 days), tagging @MyFirstHack, and share the full journey wrap-up on Day 30.
 
