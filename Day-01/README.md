@@ -1,6 +1,5 @@
 # Session 01 — MyFirstHack Days 1–3
 
-**Status:** In Progress — lessons done, hands-on tasks pending
 **Career-path notes:** Still deciding — MyFirstHack builds toward SOC Analyst (detection/investigation) or GRC Analyst (governance, risk & compliance).
 
 ## Day 1 — The Cybersecurity Landscape
@@ -21,23 +20,44 @@
 **Quiz takeaway:** N/A (this day is fully hands-on, no separate quiz captured).
 **Portfolio artifact:** A filled-out Personal Security Audit Report (scope, executive summary, findings by severity, actions taken, remediation plan). ⚠️ See the root README's privacy note — publish the *process and learning*, not the literal list of your real accounts and unpatched gaps.
 
-## Hands-on task(s) — pending, need to actually perform these
+## Hands-on tasks
 
-**Day 1 task — Find Out What's Already Out There** *(step 1 of 3; steps 2–3 not yet revealed)*
+### Day 1 — 3 tasks
+
+**Task 1 — Find Out What's Already Out There**
 Check haveibeenpwned.com with your primary email.
-_What to capture:_ total breach count · top 3 breach companies + year · your honest gut reaction.
+_Capture:_ total breach count · top 3 breach companies + year · your honest gut reaction.
 
-**Day 2 task — Block Your 30 Minutes** *(step 1 of 2)*
+**Task 2 — Map Your Current Knowledge**
+Self-rate 1–5 on 10 core areas: networking, Linux/command line, encryption, firewalls, spotting phishing, malware types, penetration testing, incident response, cloud security basics, compliance (GDPR/HIPAA etc.).
+_Capture:_ your 10 scores, saved somewhere safe — the program revisits this exact list on Day 20 to show the jump.
+
+**Task 3 — See What the Jobs Actually Want**
+On LinkedIn Jobs, open 3 "SOC Analyst" listings and 2 "GRC Analyst" listings in your area. Read the Requirements sections.
+_Capture:_ the 5 most common requirements repeated across all 5 listings (things like SIEM, Splunk, ISO 27001, incident response, risk assessment) — the program revisits this list at Day 90.
+
+### Day 2 — 2 tasks
+
+**Task 1 — Block Your 30 Minutes**
 Create a recurring 30-minute calendar event for your daily learning slot.
-_What to capture:_ the exact time window you picked · whether you actually set it as recurring.
+_Capture:_ the exact time window you picked · whether you actually set it as recurring.
 
-**Day 3 task — Run Your First Security Audit** *(step 1 of 5 — Scope; Intelligence/Exposure/Severity/Remediation steps reveal after)*
-Step 1 asks you to write down: your primary email, your 5 most important accounts, your primary device, your home network name.
-_Then:_ fill out the full Personal Security Audit Report template as later steps unlock.
+**Task 2 — Name Your Most Likely Trap**
+Pick the one beginner-failure trap you're most at risk for: The Overwhelm Spiral (bookmark everything, finish nothing) · Tutorial Hell (consume content instead of doing) · The Fundamentals Boredom Wall (bored by basics, want the "cool stuff") · The Life-Got-In-The-Way Trap (missed commitments are a pattern for you).
+_Capture:_ which trap · one specific sign you'll notice when it's happening · what you'll do instead.
 
-## Maya's angle
+### Day 3 — 5 steps *(Milestone Day — produces a portfolio artifact)*
 
-Not introduced yet — Day 1 previewed that "Maya" (a small online clothing store owner) will be used as a recurring case study once concepts get more concrete.
+**Step 1 — Scope your audit:** write down your primary email, your 5 most important accounts, your primary device, your home network name.
+
+**Step 2 — Gather intelligence:** revisit HaveIBeenPwned reading it as an auditor (note date + what was exposed per breach, and the single worst breach); also run your email through Epieos (a free OSINT tool) to see what's publicly linkable to it (photos, accounts, services).
+
+**Step 3 — Identify your current exposure:** check active/unrecognized sessions on your primary email account; check 2FA status (ON / OFF / SMS-only) on each of your 5 key accounts; count how many accounts an attacker could take over via "Forgot password" on your email alone.
+
+**Step 4 — Rate and remediate:** sort every finding into Critical / High / Medium / Low; then actually fix one thing right now (enable 2FA on the most important account missing it, or upgrade SMS-2FA to an app, or revoke one unused third-party app / fix one reused password).
+
+**Step 5 — Write your audit report:** fill in the full Personal Security Audit Report template (Scope → Executive Summary → Findings by severity → Actions Taken → Remediation Plan) using Steps 1–4, save it dated (e.g. `personal-security-audit-2026-XX-XX.md`), and screenshot the Findings section.
+⚠️ See the root README's privacy note before publishing this one — write up the process/methodology and counts, not your real account names or literal unpatched gaps.
 
 ## Key takeaways (across all 3 days)
 
@@ -48,24 +68,20 @@ Not introduced yet — Day 1 previewed that "Maya" (a small online clothing stor
 
 ## Proof / files
 
-*(Add a redacted screenshot or notes file here once the Day 1–3 tasks are actually done.)*
-
 ## LinkedIn post
 
-**Status:** Not posted — waiting until the hands-on tasks above are actually completed.
-
 ```
-Days 1–3 of 90 with @MyFirstHack — kicking off my cybersecurity journey.
+Day 1-3 of 90 with @MyFirstHack — kicking off my cybersecurity journey.
 
-Covered what cybersecurity actually is (and why most attacks, like Colonial Pipeline, come from basic mistakes not genius hacking), why most beginners quit in the first two weeks, and ran my first personal security audit using a real 5-step methodology.
+Three days in and I've already: run my own email through HaveIBeenPwned and found out exactly which breaches I never knew about, self-rated where I actually stand across 10 core security topics (revisiting this on Day 20 to see the jump), scoped out what real SOC and GRC Analyst job listings actually ask for, named the exact habit-trap most likely to make me quit, and run my first full personal security audit using a real 5-step methodology — Scope, Intelligence, Exposure, Severity, Remediation.
 
-[One honest line on what you found/felt doing the HaveIBeenPwned check and the audit.]
+That audit was the one that hit hardest: your primary email isn't just an account, it's the master key to almost everything else you own online.
 
-Following MyFirstHack's 90-day path from beginner to cybersecurity foundations, tracking the whole thing here: [repo link]
+Following MyFirstHack's 90-day path from beginner to cybersecurity foundations, tracking the whole thing here: https://github.com/AnmolNisar/30-Days-Cybersecurity-Journey
 
 #myfirsthack #cybersecurity
 ```
 
 ## Next up
 
-Do the actual hands-on tasks for Days 1–3 (with screenshots, redacted where needed), then move to Session 02 (Days 4–6: how computers work, the internet, and IP addresses).
+Do the actual hands-on tasks for Days 1–3, add your own screenshots/notes to this folder, then move to Session 02 (Days 4–6: how computers work, the internet, and IP addresses).
